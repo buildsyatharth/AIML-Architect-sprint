@@ -30,8 +30,25 @@ This repository is a daily log of my journey to becoming an AI/ML Architect. 300
 * **Strategic Goal:** Planning the transition from simple scripts to Data Structures.
 * **Why Rest?** An Architect’s most valuable tool is a clear mind. Burnout is the enemy of a 300-day sprint.
 
-**"The goal isn't to be perfect every day; it's to be better than I was yesterday."**
+#  Day 04: Lists & Tuples
 
-*Connect with me on [X (Twitter)](https://x.com/buildsyatharth)*
+I am on **Day 04** of my 300-day journey to becoming an AI/ML Architect. Today was about mastering data structures that handle groups of information: **Lists** and **Tuples**.
+
+##  Today's Learning
+* **Python Lists `[]`**: Mastered mutability, indexing, and slicing.
+* **Python Tuples `()`**: Explored immutable sequences and when to use them over lists.
+* **List Methods**: Implemented `.append()`, `.sort()`, `.reverse()`, and `.copy()`.
+
+##  Problems Solved
+1. **The Movie Vault**: Created a user-input list of favorite movies.
+2. **Palindrome Checker**: Developed a logic to verify if a list is identical when reversed.
+3. **Grade Counter**: Used `.count()` to track frequency of elements in a tuple.
+4. **Sorted Inventory**: Practiced in-place sorting of alphanumeric data.
+
+##  Technical Insights
+> **Architect's Note:** Choosing between a List and a Tuple isn't just about syntax—it's about **Memory** and **Safety**. Use Tuples for data that should never change (like coordinates or constants) to prevent accidental bugs in your AI models later.
+
+###  Connect With Me
+Let's build the future: [buildsyatharth on X](https://x.com/buildsyatharth)
 
 
