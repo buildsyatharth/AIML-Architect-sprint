@@ -30,7 +30,7 @@ This repository is a daily log of my journey to becoming an AI/ML Architect. 300
 * **Strategic Goal:** Planning the transition from simple scripts to Data Structures.
 * **Why Rest?** An Architect’s most valuable tool is a clear mind. Burnout is the enemy of a 300-day sprint.
 
-#  Day 04: Lists & Tuples
+## Day 04: Lists & Tuples
 
 I am on **Day 04** of my 300-day journey to becoming an AI/ML Architect. Today was about mastering data structures that handle groups of information: **Lists** and **Tuples**.
 
