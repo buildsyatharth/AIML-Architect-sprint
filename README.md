@@ -5,6 +5,14 @@
 
 ## 🛠️ Daily Engineering Logs
 
+### **Day 05: Neural Access Management System (NAMS)**
+* **Technical Focus:** Data Integration & Interface Logic.
+* **Key Deliverables:**
+    * **Integrated Architecture:** Built a security gateway combining Lists, Sets, and Dictionaries.
+    * **Data Normalization:** Implemented `.capitalize()` for case-insensitive input handling.
+    * **Efficient Retrieval:** Leveraged f-strings for dynamic reporting and Dictionary mapping for O(1) lookups.
+* **Architect's Note:** This project marks the transition from isolated syntax to **System Engineering**. By nesting dictionaries, we created a scalable "User Profile" database.
+
 ### **Day 05: Dictionaries & Sets**
 * **Technical Focus:** Mapping Data & Unique Collections.
 * **Key Deliverables:**
