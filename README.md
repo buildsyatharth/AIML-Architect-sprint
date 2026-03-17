@@ -5,21 +5,31 @@
 
 ## 🛠️ Daily Engineering Logs
 
-### **Day 05: Neural Access Management System (NAMS)**
-* **Technical Focus:** Data Integration & Interface Logic.
-* **Key Deliverables:**
-    * **Integrated Architecture:** Built a security gateway combining Lists, Sets, and Dictionaries.
-    * **Data Normalization:** Implemented `.capitalize()` for case-insensitive input handling.
-    * **Efficient Retrieval:** Leveraged f-strings for dynamic reporting and Dictionary mapping for O(1) lookups.
-* **Architect's Note:** This project marks the transition from isolated syntax to **System Engineering**. By nesting dictionaries, we created a scalable "User Profile" database.
 
-### **Day 05: Dictionaries & Sets**
-* **Technical Focus:** Mapping Data & Unique Collections.
-* **Key Deliverables:**
-    * **Mapping:** Implemented nested dictionaries for complex user profiles.
-    * **Data Integrity:** Leveraged Sets for automated duplicate removal from input arrays.
-    * **Logic:** Practiced key-based lookups and dictionary nesting for O(1) search efficiency.
-* **Architect's Note:** Dictionaries are the "brain" of AI configurations. Efficient mapping today prevents data bottlenecks tomorrow.
+### **Day 05: Data Structures & Iterative Automation**
+* **Technical Focus:** Set Theory, Nested Mapping, and Control Flow.
+* **Objective:** Transition from static data handling to a dynamic, automated verification pipeline.
+
+#### **Key Engineering Deliverables:**
+
+1. **Data Integrity & Cleaning**
+   * Leveraged **Set Theory** to perform $O(n)$ de-duplication of raw telemetry logs.
+   * Ensured system integrity by scrubbing redundant entries before database injection.
+
+2. **Complex Schema Mapping**
+   * Designed a **Nested Dictionary** architecture to store multi-dimensional user metadata (Roles, Permissions, Status).
+   * Utilized hash-map lookups to achieve $O(1)$ search efficiency for identity verification.
+
+3. **Iterative Logic (Automation)**
+   * Engineered **`for` loop** implementations to automate registry scans.
+   * Shifted from manual verification to a scalable "Engine" capable of batch-processing datasets.
+
+4. **Interface Normalization**
+   * Integrated `.capitalize()` for input standardization to handle case-sensitivity.
+   * Utilized **f-string interpolation** for professional, dynamic reporting.
+
+#### **Architect's Note:**
+> "By synthesizing Sets for cleaning, Dictionaries for storage, and Loops for execution, I have moved beyond basic scripting into **System Architecture**. This pipeline establishes the iterative foundation necessary for building autonomous AI agents."
 
 ---
 
