@@ -1,9 +1,28 @@
 # 🏗️ AIML-Architect-Sprint: 300 Days to Mastery
-**Architect:** Yatharth  **Current Status:** Day 06/300 🟢
+**Architect:** Yatharth  **Current Status:** Day 07/300 🟢
 
 ---
 
 ## Daily Engineering Logs
+
+## Day 7: Dynamic Control Flow & Loop Optimization
+
+Today’s focus was on mastering **`while` loops**—moving beyond fixed iterations to logic that reacts to changing data states. I focused on building robust, "infinite-proof" loops.
+
+### **Key Mastery Areas:**
+* **`while` Loop Logic:** Implemented conditional exit strategies and flag-based triggers to manage complex execution flows.
+* **Control Keywords:** Mastered `break` and `continue` to fine-tune loop performance and handle edge cases without crashing.
+* **User-Driven Iteration:** Created interactive loops that process input until specific "sentinel values" are met.
+* **The "Wait" State:** Practiced using `while` for state-monitoring (simulating processes like loading or polling).
+
+### **Code Implementation:**
+All Day 7 drills are consolidated in `PRACTICE.py`, focusing on:
+1. Multi-condition while loops.
+2. Nested loops with early-exit logic.
+3. Input validation "sandboxes."
+
+> **Architect's Log:** Transitioning from `for` to `while` requires a higher focus on state management. If the condition isn't perfect, the architecture collapses. Today was about building the "Safety Nets." 
+
 
 ## Day 6: Data Architecture & Logic Refinement
 
@@ -17,6 +36,8 @@ Today's session focused on bridging the gap between basic syntax and professiona
 * **Pythonic Efficiency:** Transitioned from multi-line loops to **List Comprehensions** for data transformation.
 
 ### **Day 05: Data Structures & Iterative Automation**
+
+
 * **Technical Focus:** Set Theory, Nested Mapping, and Control Flow.
 * **Objective:** Transition from static data handling to a dynamic, automated verification pipeline.
 
