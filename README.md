@@ -16,7 +16,7 @@ After hitting the "logic wall" yesterday, Day 07 was about structural reinforcem
 * **Control Flow Precision:** Mastered the use of `break` and `continue` to handle "edge case" data points without breaking the loop.
 
 ### **Code Implementation:**
-All Day 07 logic drills, including the "While Loop Challenges" and nested data navigation, are consolidated in the practice sheet: **[PRACTICE.py](./PRACTICE.py)**
+All Day 08 logic drills, including the "While Loop Challenges" and nested data navigation, are consolidated in the practice sheet: **[PRACTICE.py](./PRACTICE.py)**
 
 > **Architect's Log:** The gap between "knowing" a loop and "controlling" a loop is state management. Today I stopped being confused by the maze and started building the map.
 
