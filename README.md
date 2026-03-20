@@ -5,6 +5,21 @@
 
 ## Daily Engineering Logs
 
+## Day 08: Control Flow & Logic Reinforcement
+
+After hitting the "logic wall" yesterday, Day 07 was about structural reinforcement. I pivoted from basic iteration to mastering **`while` loops** and the critical relationship between **Data Structures** and **Functional Logic**.
+
+### **Key Mastery Areas:**
+* **`while` Loop Engineering:** Implemented robust loops with specific exit conditions to prevent infinite execution.
+* **Complex Data Navigation:** * **Nested Dicts:** Successfully queried multi-level key-value pairs within loops.
+    * **List/Tuple Integration:** Practiced unpacking data structures inside conditional blocks.
+* **Control Flow Precision:** Mastered the use of `break` and `continue` to handle "edge case" data points without breaking the loop.
+
+### **Code Implementation:**
+All Day 07 logic drills, including the "While Loop Challenges" and nested data navigation, are consolidated in the practice sheet: **[PRACTICE.py](./PRACTICE.py)**
+
+> **Architect's Log:** The gap between "knowing" a loop and "controlling" a loop is state management. Today I stopped being confused by the maze and started building the map.
+
 ## Day 7: Dynamic Control Flow & Loop Optimization
 
 Today’s focus was on mastering **`while` loops**—moving beyond fixed iterations to logic that reacts to changing data states. I focused on building robust, "infinite-proof" loops.
@@ -20,8 +35,6 @@ All Day 7 drills are consolidated in `PRACTICE.py`, focusing on:
 1. Multi-condition while loops.
 2. Nested loops with early-exit logic.
 3. Input validation "sandboxes."
-
-> **Architect's Log:** Transitioning from `for` to `while` requires a higher focus on state management. If the condition isn't perfect, the architecture collapses. Today was about building the "Safety Nets." 
 
 
 ## Day 6: Data Architecture & Logic Refinement
