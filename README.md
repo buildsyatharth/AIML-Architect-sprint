@@ -1,9 +1,23 @@
 # 🏗️ AIML-Architect-Sprint: 300 Days to Mastery
-**Architect:** Yatharth  **Current Status:** Day 08/300 🟢
+**Architect:** Yatharth  **Current Status:** Day 09/300 🟢
 
 ---
 
 ## Daily Engineering Logs
+
+## Day 09: Roadmap Pivot (Admission & Entrance Phase)
+
+Today was focused on B.Tech AIML admission counseling and state entrance exam preparation. Transitioning the roadmap from "Heavy Development" to "Logic Maintenance" to balance academic requirements.
+
+### **Current Focus:**
+* **Logic Preservation:** Keeping Python syntax fresh with small daily utility scripts.
+* **Math-to-Code:** Translating entrance exam formulas (Algebra/Calculus) into Python functions.
+* **Strategic Shift:** Preparing for the B.Tech AIML curriculum starting this year.
+
+### **Daily Script:**
+Updated `PRACTICE.py` with a basic eligibility logic handler to stay in the coding flow.
+
+> **Architect's Log:** A good architect knows when to pause the construction to ensure the foundation (college/degree) is solid. Momentum > Speed.
 
 ## Day 08: Control Flow & Logic Reinforcement
 
@@ -17,8 +31,6 @@ After hitting the "logic wall" yesterday, Day 07 was about structural reinforcem
 
 ### **Code Implementation:**
 All Day 08 logic drills, including the "While Loop Challenges" and nested data navigation, are consolidated in the practice sheet: **[PRACTICE.py](./PRACTICE.py)**
-
-> **Architect's Log:** The gap between "knowing" a loop and "controlling" a loop is state management. Today I stopped being confused by the maze and started building the map.
 
 ## Day 7: Dynamic Control Flow & Loop Optimization
 

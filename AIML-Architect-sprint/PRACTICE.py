@@ -103,3 +103,14 @@ while index < len(string):
         count += 1
     index += 1
 print(f"{char_to_count} + {count}")
+
+# Quick script to calculate Percentage/Cutoff logic for counseling
+
+def check_admission_eligibility(my_score, cutoff_score):
+    if my_score >= cutoff_score:
+        return "Eligible for Counseling! 🎯"
+    else:
+        return "Explore other options/rounds. 🏗️"
+
+# Example test
+print(check_admission_eligibility(85, 80))
