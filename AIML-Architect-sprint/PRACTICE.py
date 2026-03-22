@@ -114,3 +114,19 @@ def check_admission_eligibility(my_score, cutoff_score):
 
 # Example test
 print(check_admission_eligibility(85, 80))
+
+# Evaluating campus visits & course structures
+
+colleges = {
+    "SAGE": {"infrastructure": 8, "aiml_curriculum": 9, "distance": 7},
+    "LNCT": {"infrastructure": 7, "aiml_curriculum": 8, "distance": 9},
+    "ORIENTAL": {"infrastructure": 7, "aiml_curriculum": 7, "distance": 8}
+}
+
+def evaluate_campus(name, scores):
+    avg_score = sum(scores.values()) / len(scores)
+    return f"College: {name} | Architecture Score: {avg_score:.2f}/10"
+
+print("--- University Comparison Report ---")
+for name, scores in colleges.items():
+    print(evaluate_campus(name, scores))

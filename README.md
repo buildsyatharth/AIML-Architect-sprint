@@ -1,9 +1,23 @@
 # 🏗️ AIML-Architect-Sprint: 300 Days to Mastery
-**Architect:** Yatharth  **Current Status:** Day 09/300 🟢
+**Architect:** Yatharth  **Current Status:** Day 10/300 🟢
 
 ---
 
 ## Daily Engineering Logs
+
+## Day 10: Strategic Campus Evaluation & Logic Maintenance
+
+Today was spent on-site at various university campuses in Bhopal, reviewing B.Tech AIML course structures and physical infrastructure. 
+
+### **Key Activities:**
+* **Academic Review:** Analyzed university-specific AIML specializations and lab facilities.
+* **Logic Integration:** Translated the subjective "campus visit" experience into a quantitative Python evaluation script.
+* **System Maintenance:** Continued the "Logic Preservation" phase of the #100DaysOfCode during the admission transition.
+
+### **Code Implementation:**
+Created a **Campus Priority Evaluator** in `PRACTICE.py` to compare colleges using dictionary-based scoring logic. 🏗️⚖️
+
+> **Architect's Log:** Choosing the right "Server" (University) is just as important as writing the "Code" (Self-study). Today was about scouting the environment where I'll build my future.
 
 ## Day 09: Roadmap Pivot (Admission & Entrance Phase)
 
@@ -16,8 +30,6 @@ Today was focused on B.Tech AIML admission counseling and state entrance exam pr
 
 ### **Daily Script:**
 Updated `PRACTICE.py` with a basic eligibility logic handler to stay in the coding flow.
-
-> **Architect's Log:** A good architect knows when to pause the construction to ensure the foundation (college/degree) is solid. Momentum > Speed.
 
 ## Day 08: Control Flow & Logic Reinforcement
 
