@@ -1,4 +1,4 @@
-#PRACTICE QUESTION
+# WHILE PRACTICE QUESTION
 
 #1
 no = 10
@@ -130,3 +130,94 @@ def evaluate_campus(name, scores):
 print("--- University Comparison Report ---")
 for name, scores in colleges.items():
     print(evaluate_campus(name, scores))
+
+
+# FOR LOOP QUESTION 
+
+#1
+for i in range(1, 6):
+    print(i, end=" ")
+
+#2
+for i in range(1, 6,):
+    print( i ** 2,)
+
+#3
+for i in range(2, 11, 2):
+    print(i)
+
+#OR
+
+for i in range(1, 11):
+    if i % 2 == 0:
+        print(i)
+
+#4
+total = 0
+for i in range(1,11):
+    total += i
+print(f'Sum is {total}:')
+
+#5
+word = input("Enter your word : ")
+for i in range(len(word) - 1, -1 ,-1):
+    print(word[i], end=" ")
+
+#6
+vovels1 = 'aeiou'
+L = input("Enter your word : ")
+count = 0
+# vovels1 = 'aeiou'
+
+for char in L:
+    if char in vovels1:
+        count +=1
+
+print(f'Total vowels in {L} is {count}')
+
+# 7
+# Print Fibonacci Sequance up to 10 Terms 
+a = 0
+b = 1
+# c = a+b
+print(a, b , end= " ")
+
+for _ in range(8):
+    next_term = a + b
+    print(next_term, end= "  ")
+    a,b = b, next_term
+
+#8
+n = 5
+factorial = 1
+
+for i3 in range(1, n+1):
+    factorial *= i3
+print(f"Factorial of {n} is {factorial}")
+
+#9
+num = 7
+is_prime = True
+for i4 in range(2, int(num ** 0.5)+1):
+    if num  % i4== 0:
+        is_prime = False
+        break
+
+if is_prime and num > 1:
+    print(num, "is a prime number")
+
+else:
+    print(num,"is not a prime number")
+
+##10
+word = "programming"
+char_count = {}
+
+for char in word:
+    if char in char_count:
+        char_count[char] += 1
+    else:
+        char_count[char] = 1
+
+for char, count in char_count.items():
+    print(char + ":", count )

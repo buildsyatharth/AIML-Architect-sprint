@@ -1,9 +1,27 @@
 # 🏗️ AIML-Architect-Sprint: 300 Days to Mastery
-**Architect:** Yatharth  **Current Status:** Day 10/300 🟢
+**Architect:** Yatharth  **Current Status:** Day 11/300 🟢
 
 ---
 
 ## Daily Engineering Logs
+
+## Day 11: For-Loop Decathlon & Entrance Registration
+
+Today was a dual-track session: Securing the academic future through University Entrance registrations while reinforcing the "Logic Engine" with 10 intensive `for` loop challenges.
+
+### **Key Mastery Areas:**
+* **Iteration Patterns:** Solved 10 diverse `for` loop problems, focusing on data filtering and mathematical transformations.
+* **Logic-to-Life:** Built a registration ID generator and score threshold filter to mirror today's real-world entrance exam tasks.
+* **Control Flow:** Practiced nested loops and range-based indexing for complex data structures.
+
+### **Admin Milestone:**
+Successfully completed registration for University Entrance Exams.
+
+### **Code Implementation:**
+All 10 logic drills are consolidated in the practice sheet:
+**[PRACTICE.py](./PRACTICE.py)**
+
+> **Architect's Log:** Loops are the heartbeat of AI. Today I automated the repetition so I can focus on the registration paperwork. 🏗️🚀
 
 ## Day 10: Strategic Campus Evaluation & Logic Maintenance
 
@@ -17,7 +35,6 @@ Today was spent on-site at various university campuses in Bhopal, reviewing B.Te
 ### **Code Implementation:**
 Created a **Campus Priority Evaluator** in `PRACTICE.py` to compare colleges using dictionary-based scoring logic. 🏗️⚖️
 
-> **Architect's Log:** Choosing the right "Server" (University) is just as important as writing the "Code" (Self-study). Today was about scouting the environment where I'll build my future.
 
 ## Day 09: Roadmap Pivot (Admission & Entrance Phase)
 
