@@ -21,7 +21,7 @@ Successfully completed registration for University Entrance Exams.
 All 10 logic drills are consolidated in the practice sheet:
 **[PRACTICE.py](./AIML-Architect-sprint/05_Python_Loops/PRACTICE.py)**
 
-> **Architect's Log:** Loops are the heartbeat of AI. Today I automated the repetition so I can focus on the registration paperwork. 🏗️🚀
+> **Architect's Log:** Loops are the heartbeat of AI. Today I automated the repetition so I can focus on the registration paperwork. 
 
 ## Day 10: Strategic Campus Evaluation & Logic Maintenance
 
@@ -33,7 +33,7 @@ Today was spent on-site at various university campuses in Bhopal, reviewing B.Te
 * **System Maintenance:** Continued the "Logic Preservation" phase of the #100DaysOfCode during the admission transition.
 
 ### **Code Implementation:**
-Created a **Campus Priority Evaluator** in `PRACTICE.py` to compare colleges using dictionary-based scoring logic.
+Created a **Campus Priority Evaluator** in  to compare colleges using dictionary-based scoring logic. **[PRACTICE.py](./AIML-Architect-sprint/05_Python_Loops/PRACTICE.py)**
 
 
 ## Day 09: Roadmap Pivot (Admission & Entrance Phase)
@@ -46,7 +46,7 @@ Today was focused on B.Tech AIML admission counseling and state entrance exam pr
 * **Strategic Shift:** Preparing for the B.Tech AIML curriculum starting this year.
 
 ### **Daily Script:**
-Updated `PRACTICE.py` with a basic eligibility logic handler to stay in the coding flow.
+Updated **[PRACTICE.py](./AIML-Architect-sprint/05_Python_Loops/PRACTICE.py)** with a basic eligibility logic handler to stay in the coding flow.
 
 ## Day 08: Control Flow & Logic Reinforcement
 
@@ -58,8 +58,6 @@ After hitting the "logic wall" yesterday, Day 07 was about structural reinforcem
     * **List/Tuple Integration:** Practiced unpacking data structures inside conditional blocks.
 * **Control Flow Precision:** Mastered the use of `break` and `continue` to handle "edge case" data points without breaking the loop.
 
-### **Code Implementation:**
-All Day 08 logic drills, including the "While Loop Challenges" and nested data navigation, are consolidated in the practice sheet: **[PRACTICE.py](./05_Python_Loops/PRACTICE.py)**
 
 ## Day 7: Dynamic Control Flow & Loop Optimization
 
@@ -72,7 +70,7 @@ Today’s focus was on mastering **`while` loops**—moving beyond fixed iterati
 * **The "Wait" State:** Practiced using `while` for state-monitoring (simulating processes like loading or polling).
 
 ### **Code Implementation:**
-All Day 7 drills are consolidated in `PRACTICE.py`, focusing on:
+All Day 7 drills are consolidated in **[PRACTICE.py](./AIML-Architect-sprint/05_Python_Loops/PRACTICE.py)**, focusing on:
 1. Multi-condition while loops.
 2. Nested loops with early-exit logic.
 3. Input validation "sandboxes."
