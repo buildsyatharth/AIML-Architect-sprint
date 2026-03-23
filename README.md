@@ -19,7 +19,7 @@ Successfully completed registration for University Entrance Exams.
 
 ### **Code Implementation:**
 All 10 logic drills are consolidated in the practice sheet:
-**[PRACTICE.py](./PRACTICE.py)**
+**[PRACTICE.py](./05_Python_Loops/PRACTICE.py)**
 
 > **Architect's Log:** Loops are the heartbeat of AI. Today I automated the repetition so I can focus on the registration paperwork. 🏗️🚀
 
@@ -33,7 +33,7 @@ Today was spent on-site at various university campuses in Bhopal, reviewing B.Te
 * **System Maintenance:** Continued the "Logic Preservation" phase of the #100DaysOfCode during the admission transition.
 
 ### **Code Implementation:**
-Created a **Campus Priority Evaluator** in `PRACTICE.py` to compare colleges using dictionary-based scoring logic. 🏗️⚖️
+Created a **Campus Priority Evaluator** in `PRACTICE.py` to compare colleges using dictionary-based scoring logic.
 
 
 ## Day 09: Roadmap Pivot (Admission & Entrance Phase)
@@ -59,7 +59,7 @@ After hitting the "logic wall" yesterday, Day 07 was about structural reinforcem
 * **Control Flow Precision:** Mastered the use of `break` and `continue` to handle "edge case" data points without breaking the loop.
 
 ### **Code Implementation:**
-All Day 08 logic drills, including the "While Loop Challenges" and nested data navigation, are consolidated in the practice sheet: **[PRACTICE.py](./PRACTICE.py)**
+All Day 08 logic drills, including the "While Loop Challenges" and nested data navigation, are consolidated in the practice sheet: **[PRACTICE.py](./05_Python_Loops/PRACTICE.py)**
 
 ## Day 7: Dynamic Control Flow & Loop Optimization
 
