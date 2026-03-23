@@ -19,7 +19,7 @@ Successfully completed registration for University Entrance Exams.
 
 ### **Code Implementation:**
 All 10 logic drills are consolidated in the practice sheet:
-**[PRACTICE.py](./05_Python_Loops/PRACTICE.py)**
+**[PRACTICE.py](05_Python_Loops/PRACTICE.py)**
 
 > **Architect's Log:** Loops are the heartbeat of AI. Today I automated the repetition so I can focus on the registration paperwork. 🏗️🚀
 
